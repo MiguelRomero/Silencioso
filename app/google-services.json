@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "370326253285",
+    "firebase_url": "https://voceo-silencioso.firebaseio.com",
+    "project_id": "voceo-silencioso",
+    "storage_bucket": "voceo-silencioso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370326253285:android:f57a8fb97bc9bb9c",
+        "android_client_info": {
+          "package_name": "com.example.migueleduardo.voceosilencioso1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370326253285-ensabn725kri0afcqsdld24v8k3d9uii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.migueleduardo.voceosilencioso1",
+            "certificate_hash": "48cd9c27fe557ffa12dc5cb84b56cf554a3f9dbc"
+          }
+        },
+        {
+          "client_id": "370326253285-kd60es0ku4o60kqr9mrjn232o430ojcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdje7hAbF7kfxO6IJbFlymt62jInf5uAw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370326253285-kd60es0ku4o60kqr9mrjn232o430ojcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
